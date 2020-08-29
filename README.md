@@ -1,4 +1,4 @@
-### check out live demo `https://facebook-clone-e22d7.web.app`
+### Open [https://facebook-clone-e22d7.web.app](https://facebook-clone-e22d7.web.app) to view it in the browser.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
